@@ -7,15 +7,10 @@ public class Mascota {
     public Mascota(String nombre, boolean estado, String especie) {
         this.nombre = nombre;
         this.especie = especie;
-        this.estado = estado;
+        this.estado = false;
     }
     public boolean getEstado() {
-        if (estado == true) {
-            return true;
-        }
-        else {
-            return false;
-        }
+      return  this.estado;
     }
     public String getNombre() {
         return nombre;
