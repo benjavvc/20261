@@ -39,6 +39,8 @@ public class DemoPabellonCirugia {
             pabellones[i]=new PabellonCirugia(numero,especialidad);
             if (pabellones[i]!=null){
                 if ( i % 2==0) {
+                    pabellones[i].setEstado(Estado.DISPONIBLE);
+                }else{
                     pabellones[i].setEstado(Estado.OCUPADO);
                 }
             }
