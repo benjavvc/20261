@@ -1,4 +1,4 @@
-package clase23032026;
+package clases.clase23032026;
 
 public enum Tipo {
     COMPRIMIDO,

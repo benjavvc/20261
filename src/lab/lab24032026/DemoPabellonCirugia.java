@@ -1,13 +1,10 @@
-package lab24032026;
+package lab.lab24032026;
 
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.Date;
 import java.util.Scanner;
 
 public class DemoPabellonCirugia {
     private static Scanner sc = new Scanner(System.in);
-    PabellonCirugia [] pabellones=new PabellonCirugia[6];
+    PabellonCirugia[] pabellones=new PabellonCirugia[6];
     static void main() {
         DemoPabellonCirugia demo = new DemoPabellonCirugia();
         int op;

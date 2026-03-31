@@ -1,4 +1,4 @@
-package clase17032026;
+package clases.clase17032026;
 
 public class Cafe {
     private String nombre;

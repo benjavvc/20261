@@ -1,4 +1,4 @@
-package clase20032026;
+package clases.clase20032026;
 
 public enum EstadoEstudiante {
     NO_VIGENTE, REGULAR, SUSPENCION_DE_ESTUDIO, PERDIDA_CARRERA, TERMINAL, EGRESADO, TITULADO

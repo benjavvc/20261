@@ -1,6 +1,5 @@
-package clase17032026;
+package clases.clase17032026;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Cafeteria {

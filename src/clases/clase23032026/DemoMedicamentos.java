@@ -1,4 +1,4 @@
-package clase23032026;
+package clases.clase23032026;
 
 import java.time.LocalDate;
 import java.util.Scanner;

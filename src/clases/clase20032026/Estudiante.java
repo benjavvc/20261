@@ -1,4 +1,4 @@
-package clase20032026;
+package clases.clase20032026;
 
 import java.util.Objects;
 
