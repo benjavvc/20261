@@ -5,7 +5,7 @@ public class Minibus {
     private int seatsNumber;
     private int occupiedSeatsNumber;
     private State state;
-    private static int ticketValue=500;
+    private  static int ticketValue=500;
     public Minibus(String licensePlate, int seatsNumber) {
         this.licensePlate = licensePlate;
         this.seatsNumber = seatsNumber;
@@ -58,6 +58,5 @@ public class Minibus {
         return ticketValue;
     }
     public static void setTicketValue(int ticketValue) {
-       Minibus.ticketValue = ticketValue;
     }
 }

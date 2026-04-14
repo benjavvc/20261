@@ -1,0 +1,3 @@
+Creamos la clase padre Mascota con sus atributos
+luego creamos las clases hijas heredando con extends sus atributos y agregandolo en el constructor con el super()
+luego segun el contexto de cada objeto le damos funcionamiento a los metodos heredados de la clase Mascota
